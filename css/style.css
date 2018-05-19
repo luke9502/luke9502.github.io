@@ -20,17 +20,17 @@ body, html{
 
 
 .pimg1{
-    background-image:url("../img/img_01.jpg");
+    background-image:url("../img/img_01.JPG");
     min-height:100%;
 }
 
 .pimg2{
-    background-image:url("../img/img_02.jpg");
+    background-image:url("../img/img_02.JPG");
     min-height:70%;
 }
 
 .pimg3{
-    background-image:url("../img/img_03.jpg");
+    background-image:url("../img/img_03.JPG");
     min-height:400px;
 }
 
